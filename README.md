@@ -31,7 +31,8 @@ This AI Agent helps project managers and teams break down projects into actionab
 2. Click on CoPilot
 3. CLick on Explore Agents
 4. Search for Task Planner
-5. Select it and start using
+5. Select it and click on Add
+6. Start using
 
 #**Sample prompts to use**
 1. break this project down into tasks: a web portal for incident logging
